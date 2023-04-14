@@ -11,6 +11,6 @@ if __name__ == '__main__':
     print_hi('Michal sdfsd')
     print("Where")
     print(password)
-    print(my_function(2,4))
+    print(my_function(2,6))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
