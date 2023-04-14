@@ -12,6 +12,6 @@ if __name__ == '__main__':
     print("Where")
     print(password)
     print(my_function(2,6))
-    x = 3
+    x = 30
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
